@@ -63,11 +63,6 @@ portfolio-template/
 
 ---
 
-## 📸 Vista previa
-
-![Vista previa](preview.png)
-
----
 
 ## 📄 Licencia
 
