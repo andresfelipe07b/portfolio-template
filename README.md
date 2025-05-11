@@ -6,7 +6,7 @@
 Una plantilla de portafolio personal moderna y responsiva desarrollada con **HTML**, **CSS** y **JavaScript**. Diseñada para desarrolladores que desean mostrar su experiencia, habilidades técnicas y enlaces relevantes en una interfaz limpia y atractiva.
 
 
-## 📸 Preview
+## 📸 Vista previa
 
 ![Preview](preview.png)
 
